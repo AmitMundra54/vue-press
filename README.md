@@ -1,6 +1,6 @@
-# VuePress Starter Kit
+# Anatta design Docs
 
-A sample project to let you see what makes VuePress so great!
+All in one documentation for all Anatta Design related stuff
 
 ## Getting Setup
 
